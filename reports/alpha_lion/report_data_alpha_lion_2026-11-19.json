@@ -1,0 +1,28 @@
+{
+  "agency_name": "TBAR Partners",
+  "client_name": "Alpha Lion",
+  "week_label": "11/13-11/19",
+  "generated_date": "2026-11-20",
+  "data_source_note": "Total GMV from Seller Center Key Metrics. GMV Max spend/revenue/ROI from TikTok GMV Max Ads dashboard. Outreach & content funnel from Euka.",
+  "gmv": {
+    "total_shop_gmv": {"current": 3293.12, "previous": 2879.65},
+    "gmv_max_revenue": {"current": 3206.62, "previous": 2825.95},
+    "gmv_max_spend": {"current": 2060.72, "previous": 1869.21},
+    "roi": {"current": 1.56, "previous": 1.51}
+  },
+  "outreach": {
+    "messages_sent": {"current": 22451, "previous": 15661},
+    "sample_requests_received": {"current": 40, "previous": 69},
+    "sample_requests_approved": {"current": 27, "previous": 71},
+    "videos_posted": {"current": 52, "previous": 33}
+  },
+  "trend_weeks": [
+    {"label": "11/06-11/12", "total_gmv": 2879.65, "gmv_max_revenue": 2825.95},
+    {"label": "11/13-11/19", "total_gmv": 3293.12, "gmv_max_revenue": 3206.62}
+  ],
+  "spend_vs_revenue_weeks": [
+    {"label": "11/06-11/12", "spend": 1869.21, "revenue": 2825.95},
+    {"label": "11/13-11/19", "spend": 2060.72, "revenue": 3206.62}
+  ],
+  "footer_extra": "SHOP GMV IS FINALIZED THROUGH 11/19."
+}
