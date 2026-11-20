@@ -1,0 +1,68 @@
+{
+  "agency_name": "TBAR Partners",
+  "client_name": "BioTrust",
+  "week_label": "11/13-11/19",
+  "generated_date": "2026-11-20",
+  "data_source_note": "Total Shop GMV, GMV Max spend/revenue/ROI and the outreach & content funnel pulled via the Euka connector (brand: BioTrust, TikTok Shop US) for 11/13-11/19 vs. prior week 11/06-11/12. Shop GMV is finalized through 11/19.",
+  "gmv": {
+    "total_shop_gmv": {
+      "current": 275.21,
+      "previous": 276.06
+    },
+    "gmv_max_revenue": {
+      "current": 333.2,
+      "previous": 238.8
+    },
+    "gmv_max_spend": {
+      "current": 293.86,
+      "previous": 304.53
+    },
+    "roi": {
+      "current": 1.13,
+      "previous": 0.78
+    }
+  },
+  "outreach": {
+    "messages_sent": {
+      "current": 40818,
+      "note": "No outreach sent prior week"
+    },
+    "sample_requests_received": {
+      "current": 21,
+      "previous": 49
+    },
+    "sample_requests_approved": {
+      "current": 12,
+      "previous": 25
+    },
+    "videos_posted": {
+      "current": 58,
+      "previous": 70
+    }
+  },
+  "trend_weeks": [
+    {
+      "label": "11/06-11/12",
+      "total_gmv": 276.06,
+      "gmv_max_revenue": 238.8
+    },
+    {
+      "label": "11/13-11/19",
+      "total_gmv": 275.21,
+      "gmv_max_revenue": 333.2
+    }
+  ],
+  "spend_vs_revenue_weeks": [
+    {
+      "label": "11/06-11/12",
+      "spend": 304.53,
+      "revenue": 238.8
+    },
+    {
+      "label": "11/13-11/19",
+      "spend": 293.86,
+      "revenue": 333.2
+    }
+  ],
+  "gmv_finalized_note": "Shop GMV is finalized through 11/19."
+}
