@@ -3,25 +3,64 @@
   "client_name": "1st Phorm",
   "week_label": "11/13-11/19",
   "generated_date": "2026-11-20",
-  "data_source_note": "Shop GMV is finalized through 11/18 (11/19 not yet published by TikTok).",
   "gmv": {
-    "total_shop_gmv": {"current": 48193.87, "previous": 35324.43},
-    "gmv_max_revenue": {"current": 57176.53, "previous": 37826.38},
-    "gmv_max_spend": {"current": 31040.89, "previous": 21207.49},
-    "roi": {"current": 1.84, "previous": 1.78}
+    "total_shop_gmv": {
+      "current": 57103.91,
+      "previous": 45583.83
+    },
+    "gmv_max_revenue": {
+      "current": 57176.53,
+      "previous": 37826.38
+    },
+    "gmv_max_spend": {
+      "current": 31040.89,
+      "previous": 21207.49
+    },
+    "roi": {
+      "current": 1.84,
+      "previous": 1.78
+    }
   },
   "outreach": {
-    "messages_sent": {"current": 47605, "previous": 44488},
-    "sample_requests_received": {"current": 764, "previous": 741},
-    "sample_requests_approved": {"current": 367, "previous": 357},
-    "videos_posted": {"current": 445, "previous": 512}
+    "messages_sent": {
+      "current": 47605,
+      "previous": 44488
+    },
+    "sample_requests_received": {
+      "current": 764,
+      "previous": 741
+    },
+    "sample_requests_approved": {
+      "current": 367,
+      "previous": 357
+    },
+    "videos_posted": {
+      "current": 460,
+      "previous": 512
+    }
   },
   "trend_weeks": [
-    {"label": "11/06-11/12", "total_gmv": 35324.43, "gmv_max_revenue": 37826.38},
-    {"label": "11/13-11/19", "total_gmv": 48193.87, "gmv_max_revenue": 57176.53}
+    {
+      "label": "11/06-11/12",
+      "total_gmv": 45583.83,
+      "gmv_max_revenue": 37826.38
+    },
+    {
+      "label": "11/13-11/19",
+      "total_gmv": 57103.91,
+      "gmv_max_revenue": 57176.53
+    }
   ],
   "spend_vs_revenue_weeks": [
-    {"label": "11/06-11/12", "spend": 21207.49, "revenue": 37826.38},
-    {"label": "11/13-11/19", "spend": 31040.89, "revenue": 57176.53}
+    {
+      "label": "11/06-11/12",
+      "spend": 21207.49,
+      "revenue": 37826.38
+    },
+    {
+      "label": "11/13-11/19",
+      "spend": 31040.89,
+      "revenue": 57176.53
+    }
   ]
 }
