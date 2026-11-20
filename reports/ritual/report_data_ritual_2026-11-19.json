@@ -1,0 +1,27 @@
+{
+  "agency_name": "TBAR Partners",
+  "client_name": "Ritual",
+  "week_label": "11/13-11/19",
+  "generated_date": "2026-11-20",
+  "data_source_note": "Cruva (TikTok Shop sync)",
+  "gmv": {
+    "total_shop_gmv": {"current": 37358.22, "previous": 20598.70},
+    "gmv_max_revenue": {"current": 52178.72, "previous": 27392.63},
+    "gmv_max_spend": {"current": 49344.19, "previous": 29802.56},
+    "roi": {"current": 1.057444, "previous": 0.919137}
+  },
+  "outreach": {
+    "messages_sent": {"current": 65010, "previous": 80829},
+    "sample_requests_received": {"current": 365, "previous": 395},
+    "sample_requests_approved": {"current": 225, "previous": 252},
+    "videos_posted": {"current": 559, "previous": 623}
+  },
+  "trend_weeks": [
+    {"label": "11/06-11/12", "total_gmv": 20598.70, "gmv_max_revenue": 27392.63},
+    {"label": "11/13-11/19", "total_gmv": 37358.22, "gmv_max_revenue": 52178.72}
+  ],
+  "spend_vs_revenue_weeks": [
+    {"label": "11/06-11/12", "spend": 29802.56, "revenue": 27392.63},
+    {"label": "11/13-11/19", "spend": 49344.19, "revenue": 52178.72}
+  ]
+}
