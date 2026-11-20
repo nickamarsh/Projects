@@ -1,0 +1,27 @@
+{
+  "agency_name": "TBAR Partners",
+  "client_name": "Dole",
+  "week_label": "11/13-11/19",
+  "generated_date": "2026-11-20",
+  "data_source_note": "Total GMV from TikTok Seller Center key metrics. GMV Max spend/revenue/ROI from TikTok GMV Max Ads dashboard. Outreach & content funnel from Euka. Shop GMV is finalized through 11/19.",
+  "gmv": {
+    "total_shop_gmv": {"current": 113.99, "previous": 355.97},
+    "gmv_max_revenue": {"current": 134.97, "previous": 394.92},
+    "gmv_max_spend": {"current": 417.42, "previous": 328.90},
+    "roi": {"current": 0.32, "previous": 1.20}
+  },
+  "outreach": {
+    "messages_sent": {"current": 26408, "previous": 42391},
+    "sample_requests_received": {"current": 94, "previous": 238},
+    "sample_requests_approved": {"current": 87, "previous": 109},
+    "videos_posted": {"current": 122, "previous": 139}
+  },
+  "trend_weeks": [
+    {"label": "11/06-11/12", "total_gmv": 355.97, "gmv_max_revenue": 394.92},
+    {"label": "11/13-11/19", "total_gmv": 113.99, "gmv_max_revenue": 134.97}
+  ],
+  "spend_vs_revenue_weeks": [
+    {"label": "11/06-11/12", "spend": 328.90, "revenue": 394.92},
+    {"label": "11/13-11/19", "spend": 417.42, "revenue": 134.97}
+  ]
+}
