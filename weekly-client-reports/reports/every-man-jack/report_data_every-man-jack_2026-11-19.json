@@ -1,0 +1,67 @@
+{
+  "agency_name": "TBAR Partners",
+  "client_name": "Every Man Jack",
+  "week_label": "11/13-11/19",
+  "generated_date": "2026-11-20",
+  "data_source_note": "Total GMV from TikTok Shop key metrics and GMV Max spend/revenue/ROI from TikTok GMV Max ads, both via Euka. Outreach & content funnel from Euka. Shop GMV is finalized through 11/19.",
+  "gmv": {
+    "total_shop_gmv": {
+      "current": 26248.92,
+      "previous": 8984.55
+    },
+    "gmv_max_revenue": {
+      "current": 22840.2,
+      "previous": 9509.92
+    },
+    "gmv_max_spend": {
+      "current": 12338.78,
+      "previous": 6164.67
+    },
+    "roi": {
+      "current": 1.85,
+      "previous": 1.54
+    }
+  },
+  "outreach": {
+    "messages_sent": {
+      "current": 35144,
+      "previous": 53642
+    },
+    "sample_requests_received": {
+      "current": 1432,
+      "previous": 532
+    },
+    "sample_requests_approved": {
+      "current": 236,
+      "previous": 301
+    },
+    "videos_posted": {
+      "current": 343,
+      "previous": 220
+    }
+  },
+  "trend_weeks": [
+    {
+      "label": "11/06-11/12",
+      "total_gmv": 8984.55,
+      "gmv_max_revenue": 9509.92
+    },
+    {
+      "label": "11/13-11/19",
+      "total_gmv": 26248.92,
+      "gmv_max_revenue": 22840.2
+    }
+  ],
+  "spend_vs_revenue_weeks": [
+    {
+      "label": "11/06-11/12",
+      "spend": 6164.67,
+      "revenue": 9509.92
+    },
+    {
+      "label": "11/13-11/19",
+      "spend": 12338.78,
+      "revenue": 22840.2
+    }
+  ]
+}
